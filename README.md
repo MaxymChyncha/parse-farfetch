@@ -1,8 +1,10 @@
 # Farfetch parser
 
 ## Features
-- Web Scraping: Use Scrapy to extract information about dresses.
-- Data preparing: Save your data in XML format to pass it to CMS.
+- Scrape 120 Listings: The script efficiently scrapes data from the first 120 dress listings on Farfetch's women's dresses page.
+- Data Extraction: Extract essential information such as product titles, prices, brands, and more.
+- Google Merchant Feed Format: Transforms the scraped data into a format suitable for Google Merchant feeds, ensuring compatibility with CMS platforms.
+- Easy Integration: Provides a seamless process to integrate the data into your CMS for e-commerce purposes.
 
 ## Installation
 
